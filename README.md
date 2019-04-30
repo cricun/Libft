@@ -1,23 +1,22 @@
-LIBFT
+# LIBFT
 
 
 Own library written with using only "write", "malloc" and "free" functions.
 Most functions are used to work with strings.
 
 
-DESCRIPTION
-
+### STRUCTURE
 
 Source files located in srcs directory.
 Header files located in includes directory.
 
 
-MAKEFILE COMMANDS
+### MAKEFILE COMMANDS
 
-make        - compile library.
+* make        - compile library.
 
-make clean  - remove .o files.
+* make clean  - remove .o files.
 
-make fclean - remove .o files and library file.
+* make fclean - remove .o files and library file.
 
-make re     - recompile library.
+* make re     - recompile library.
